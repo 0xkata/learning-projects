@@ -1,0 +1,13 @@
+img.banana {
+  width: 169px;
+  height: 200px;
+  border-radius: 15px;
+  float: left;
+  margin-right: 20px;
+  object-fit: cover;
+}
+em {
+  color: blue;
+  font-style: normal;
+  font-weight: bold;
+}
